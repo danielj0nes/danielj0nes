@@ -1,6 +1,6 @@
 $$
 \textcolor{lime}
 {
-  \textsf{hello world :)}
+  \Huge{\textbf{hello world :)}}
 }
 $$
