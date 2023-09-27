@@ -1,3 +1,6 @@
-```diff
-+ hello world :)
-```
+$$
+\textcolor{lime}
+{
+  \textsf{hello world :)}
+}
+$$
