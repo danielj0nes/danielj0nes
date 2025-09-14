@@ -8,7 +8,7 @@ $$
   <img src="https://github.com/danielj0nes/danielj0nes/blob/master/gol_trefoil_knot.gif">
 </p>
 <p align="justify">
-  I currently work as an eDiscovery Analyst at <a href="https://swiss-fts.com/">Swiss FTS</a> and will soon finish my Masters in Computer Science.<br/><br/>
+  I currently work as a software engineer at <a href="https://farsight.net/">Farsight</a> and have a master's degree in Computer Science.<br/><br/>
   The motivation behind nearly all of my projects comes from curiosity and the desire to solve problems, e.g., <br/>
   • When I was an undergraduate student on a budget, doing an internship in Switzerland, I created <a href="https://github.com/danielj0nes/priisvergliich">Priisvergliich</a>.<br/>
   • To try and improve my productivity and take more breaks in the most effective way possible, I made <a href="https://github.com/danielj0nes/breakbuddy">BreakBuddy</a>.<br/>
